@@ -7,7 +7,7 @@
 var phonetype = '';
 if(x == "Iphone")
 {
-    phonetype = '<img src="iphone.png" />';
+    phonetype = '<img src="iphone.png" width=400 height=650 />';
 }
 else if(x == "Samsung")
 {
@@ -17,7 +17,7 @@ document.write(phonetype)
 
 var z = prompt("Do you want headset (yes or no)");
 
- q = '<img src="earbud.jpg"/>';
+ q = '<img src="earbud.jpg" width=500 height=350/>';
 
 if(z == "yes")
 {
