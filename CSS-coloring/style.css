@@ -1,0 +1,38 @@
+body{
+    width: 1000px;
+    background-image: url("https://www.crushpixel.com/big-static15/preview4/online-shopping-on-mobile-shopping-2128781.jpg");
+    margin: auto;
+}
+main h1{
+    color: yellow;
+    background-color: tomato;
+    text-align: center;
+}
+.logo{
+    width: 100px; 
+}
+header nav ul li{
+    display: inline;
+    margin: 20px;
+    align-items: center;
+}
+.x{
+    width: 100px;
+}
+
+main ul li{
+    display: inline-table;
+    margin: 100px;
+    background-color: red;
+    font-size: large;
+}
+main p{
+    background-color: thistle;
+    line-height: 40px;
+    text-align: center;
+}
+footer{
+    background-color: black;
+    font-size: large;
+    color: white;
+}
